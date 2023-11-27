@@ -13,6 +13,6 @@ The three .R files are:
 
 The "datasets" folder contains two sub-folders:
 
-- **real_datasets** folder: A folder containing two real datasets, metabric.csv & gbsg.csv, used for real applications.
+- folder **real_datasets** : A folder containing two real datasets, metabric.csv & gbsg.csv, used for real applications.
 
-- **sim_datasets** folder: A folder containing 12 .RData files, with each file being a simulated dataset. Files starting with "sim_prop" are for Scenario 1: proportional & linear; Files starting with "sim_nonlinear" are for Scenario 2: proportional & nonlinear; Files starting with "sim_nonprop" are for Scenario 3: nonproportional & nonlinear. "N500" and "N5000" indicate that the simulated datasets are in size of 500 and 5000, respectively, while "censor0.3" and "censor0.6" indicate that the datasets have approximate 30% and 60% censoring individuals, separately.
+- folder **sim_datasets**: A folder containing 12 .RData files, with each file being a simulated dataset. Files starting with "sim_prop" are for Scenario 1: proportional & linear; Files starting with "sim_nonlinear" are for Scenario 2: proportional & nonlinear; Files starting with "sim_nonprop" are for Scenario 3: nonproportional & nonlinear. "N500" and "N5000" indicate that the simulated datasets are in size of 500 and 5000, respectively, while "censor0.3" and "censor0.6" indicate that the datasets have approximate 30% and 60% censoring individuals, separately.
