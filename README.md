@@ -4,11 +4,11 @@ This repo consists of the data sets and R code for the simulation studies and re
 
 The three .R files are:
 
-- **functions.R**: R script containing the backbone for the other scripts. It includes the core functions used for transformation (step I) and feature extraction (step II). This file needs to be sourced.
+- **functions.R**: R script containing the backbone for the other scripts. It includes the core functions used for transformation (*Step 1*) and feature extraction (*Step 2*). This file needs to be sourced.
 
-- **real_applications.R**: R script producing the results for 3 data sets (METABRIC, GBSG & FLCHAIN) given in the real applications section (Found in Section 4).
+- **real_applications.R**: R script producing the results for 3 data sets (METABRIC, GBSG & FLCHAIN) given in the real applications section (Found in Section 3).
 
-- **simulation_studies.R**: R script producing the results for various simulation settings under 3 different scenarios presented in the simulation studies section (Found in Section 3). For each scenario, we considered 4 simulated datasets with sample size of 500 or 5000 and censoring rate of 0.3 or 0.6.
+- **simulation_studies.R**: R script producing the results for various simulation settings under 3 different scenarios presented in the simulation studies section (Found in Section 4). For each scenario, we considered 4 simulated datasets with sample size of 500 or 5000 and censoring rate of 0.3 or 0.6.
 
 The "datasets" folder contains two sub-folders:
 
