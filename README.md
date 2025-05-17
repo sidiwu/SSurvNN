@@ -1,6 +1,6 @@
 # SSurvNN
 
-This repo consists of the data sets and R code for the simulation studies and real application described in the manuscript "Simplified Survival Neural Networks for Time-to-Event Outcomes". You should find three .R files and one folder named "datasets" in this repo. 
+This repo consists of the data sets and R code for the simulation studies and real applications described in the manuscript "Simplified Survival Neural Networks for Time-to-Event Outcomes". You should find three .R files and one folder named "datasets" in this repo. 
 
 The three .R files are:
 
